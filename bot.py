@@ -3,8 +3,8 @@ import csv
 import time
 import os
 
-TOKEN = os.environ.get("BOT_TOKEN")
-CHAT_ID = os.environ.get("CHAT_ID")
+TOKEN = os.environ.get("8414146371:AAHlCBygZsoIlKIo2XFxl_rwQ3R_opoMCe4")
+CHAT_ID = os.environ.get("-1003809269894")
 
 URL = f"https://api.telegram.org/bot{TOKEN}/sendPoll"
 
