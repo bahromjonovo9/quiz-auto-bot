@@ -1,0 +1,251 @@
+question,option1,option2,option3,option4,answer
+“Didaktik birlikni yiriklashtirish” (DYU) yondashuvi nimani ko‘zlaydi?,"Har bir kichik mavzuni alohida, mustaqil o‘qitish",Mavzularni yirik bloklarda integratsiya qilib tizimli bog‘lanishni kuchaytirish,Faqat algoritmik malakani oshirish,Nazorat ishlar sonini ko‘paytirish,B
+“Tushuncha xaritasi” metodik vosita sifatida qaysi natijani kuchaytiradi?,Tez hisoblash malakasini,Faktlarni mexanik yodlashni,Tushunchalar orasidagi mantiqiy strukturani,Standart algoritmni qo‘llashni,C
+Mis-konsepsiyani aniqlash uchun eng samarali instrument qaysi?,Summativ nazorat ishi,Diagnostik (konseptual) test va tahliliy savollar,Mashq sonini oshirish,Reytingni ko‘tarish,B
+"O‘quvchi “0 ga ko‘paytirganda son o‘zgarmaydi” desa, bu nimani ko‘rsatadi?",Distributivlikni tushunmaslik,Ko‘paytirishni qo‘shish bilan aralashtirish (additiv intuisiya),Joy qiymatini bilmaslik,Kasrlarni noto‘g‘ri taqqoslash,B
+“Nol”ning o‘rin qiymatini eng aniq ochadigan topshiriq qaysi?,10×0 ni hisoblash,105 va 15 ni taqqoslash va razryad tahlili,Nol bilan ayirish,Nolni qoida sifatida yodlash,B
+“Raqam” va “son” farqi qaysi juftlikda to‘g‘ri?,"Raqam – miqdor, son – belgi","Raqam – belgi, son – miqdor",Ikkalasi sinonim,"Raqam – yozuv, son – formula",B
+Ko‘paytirishning kommutativligini boshlang‘ichda eng tabiiy asoslovchi model:,Algebraik isbot,Katakli massiv (array) modeli,Standart algoritm,Kalkulyator bilan tekshirish,B
+Distributivlikni ko‘rsatadigan to‘g‘ri ifoda:,a·b = b·a,(a+b)·c = a·c + b·c,a+b=c,a:b,B
+"23 + 19 ni “2+1, 3+9” tarzida qo‘shish qaysi muammoni bildiradi?",Hisoblash tezligi past,Joy qiymatini tushunmaslik,Distributivlikni bilmaslik,Nolni noto‘g‘ri ishlatish,B
+“Ko‘chirish” (carry) algoritmini konseptual tushuntirishda asosiy tayanch:,Jadvalni yodlash,10 birlik = 1 o‘nlik (regrouping),Standart yozuv qoidasi,Tez hisoblash strategiyasi,B
+Rekonstruktsiya tipidagi masala asosan nimani o‘lchaydi?,Mexanik amal bajarishni,Mantiqiy tahlil va struktura ko‘rishni,Tezlikni,Yodlashni,B
+Matematik suhbatning asosiy maqsadi:,Javobni tez aytish,Fikrni asoslash va matematik muloqotni rivojlantirish,Intizomni nazorat qilish,Reyting qo‘yish,B
+Think–Pair–Share texnikasi nimani kuchaytiradi?,Individual nazoratni,Mustaqil fikr → hamkorlik → ifodalash,Test natijasini,Jadval ishlashni,B
+Kognitiv konflikt samarali bo‘ladi qachon?,O‘quvchi hamma narsani to‘g‘ri bilsa,Noto‘g‘ri tushunchani yangilash zarur bo‘lganda,Nazorat ishi vaqtida,Uy vazifada,B
+Kontr-misolning metodik vazifasi:,Qoidani mustahkamlash,Noto‘g‘ri umumlashmani rad etish,Algoritmni tezlashtirish,Reytingni oshirish,B
+“Ko‘paytirsa natija har doim kattalashadi” degan umumlashma qaysi holatda noto‘g‘ri?,Natural sonlarda,0 va kasrlar bilan ko‘paytirishda,1 ga ko‘paytirishda,Butun sonlarda,B
+"O‘quvchi 5 : 0 ni hisoblamoqchi bo‘lsa, birinchi metodik qadam:",Cheksiz chiqadi deb aytish,"Bo‘lish ma’nosini tushuntirib, 0 ga bo‘lish mumkin emasligini ko‘rsatish",0 ga yaqinlashtirish,Kalkulyatorda tekshirish,B
+Matematik notatsiyani o‘rgatishda eng tipik xato:,Belgini model bilan tushuntirish,Belgini faqat qoida sifatida yodlatish,Kontekstda qo‘llash,Izoh berish,B
+O‘lchov xatosi bilan hisob xatosini farqlovchi mezon:,Ikkalasi bir xil,O‘lchov xatosi – birlik yoki asbob; hisob xatosi – arifmetik amal,Hisob xatosi – birlik xato,O‘lchov xatosi – formulani bilmaslik,B
+Taxminiy hisob (estimation)ning metodik maqsadi:,Tezlikni oshirish,Natijani oldindan baholash va real mantiqni rivojlantirish,Jadvalni mustahkamlash,Testga tayyorlash,B
+“Son sezgisi” komponenti qaysi?,Formulani tez yozish,Son kattaligini sezish va taqqoslash,Algoritmni yodlash,Ko‘paytirish jadvali,B
+“Strategiyalar repertuari” nimani anglatadi?,Bitta universal usulni bilish,Turli usullarni bilish va mosini tanlash,Faqat standart algoritm,Faqat tezlik,B
+Bir masalani ikki xil usulda yechish metodik jihatdan nimani beradi?,Vaqtni cho‘zadi,Moslashuvchan fikrlash va chuqur tushunish,Intizomni kuchaytiradi,Reytingni oshiradi,B
+Ko‘p bosqichli masalalarda eng ko‘p uchraydigan muammo:,Hisob tezligi pastligi,Rejalashtira olmaslik,Nolni bilmaslik,Kommutativlikni unutish,B
+Masala shartida “jami” so‘zi bo‘lsa ham doim qo‘shish chiqmasligi nimani bildiradi?,So‘z har doim noto‘g‘ri,"Kalit so‘zga yopishish xato, semantik tahlil zarur",Doim ayirish chiqadi,Faqat tenglama kerak,B
+“Semantik tahlil” nimani anglatadi?,So‘zlarni yodlash,Matn mazmunini tahlil qilib amalni aniqlash,Jadval tuzish,Formulani qo‘llash,B
+Bar model ayniqsa qaysi masalalarda samarali?,Perimetr topishda,"Taqqoslash, “qancha ortiq/kam”, nisbat",Ko‘paytirish jadvalida,Algebraik isbotda,B
+Masala tuzdirish metodikasi nimani rivojlantiradi?,Mexanik hisoblash,Ijodiy va analitik fikrlash,Tezlik,Intizom,B
+Masala tuzdirishda eng muhim talab:,Murakkab bo‘lishi,Mantiqan to‘g‘ri va yechimga ega bo‘lishi,Uzun bo‘lishi,Qiyin terminlar ishlatish,B
+“Koordinatalash” topshiriqlari nimani o‘rgatadi?,Faqat grafika chizish,Moslik o‘rnatish va klassifikatsiya,Faqat hisoblash,Tenglama yechish,B
+“Minimal yordam bilan maksimal mustaqillik” prinsipining darsdagi ko‘rinishi:,Har qadamni o‘qituvchi bajaradi,"Skafolding berib, keyin bosqichma-bosqich olib tashlash",Ko‘p uy vazifa berish,Faqat test ishlatish,B
+“Intervalli takror”ning asosiy foydasi:,Tez yodlash,Uzoq muddatli xotirada mustahkamlash,Nazoratni osonlashtirish,Reyting oshirish,B
+“Aralash mashq” (interleaving) nimani kuchaytiradi?,Bir xil tipdagi tezlikni,Strategiyani tanlash va farqlash ko‘nikmasini,Yodlashni,Intizomni,B
+Bir darsda faqat bitta tip misol berishning xavfi:,O‘quvchi zerikadi,"Shablon fikrlash rivojlanadi, transfer pasayadi",Nazorat qiyinlashadi,Vaqt tejaladi,B
+Boshlang‘ichda matematik dalilning eng mos formasi:,Formal isbot,"Ko‘rgazmali asoslash (model, rasm)",Algebraik formulalar,Kalkulyator bilan tekshirish,B
+Darsda “Nima uchun?” savolini tizimli qo‘llash nimani rivojlantiradi?,Tezlikni,Asoslash va refleksiyani,Yodlashni,Nazoratni,B
+“Matematik intizomiy amaliyotlar”dan biri:,Formulani yodlash,Muammoni qat’iyat bilan yechish va asoslash,Jadvalni to‘ldirish,Reyting yig‘ish,B
+Standart algoritmni juda erta berish xavfi:,O‘quvchi tez o‘rganadi,Konseptual tushunish shakllanmay qoladi,Tezlik oshadi,Baholash osonlashadi,B
+"“Strategiya avval, algoritm keyin” ketma-ketligi nimani ko‘zlaydi?",Testga tayyorlashni,Moslashuvchan va chuqur tushunishni,Reytingni,Intizomni,B
+"O‘quvchi “1/4 > 1/3” desa, bu qaysi noto‘g‘ri intuisiya?",Surat katta bo‘lsa kasr katta,Maxraj katta bo‘lsa kasr katta,Nol bilan aralashtirish,Tenglikni tushunmaslik,B
+Kasrlarni taqqoslashda eng kuchli metodik tayanch:,Faqat formulani yodlash,Ko‘rgazmali model va umumiy maxraj g‘oyasi,Kalkulyator,Jadval,B
+“Ekvivalent kasrlar”ni kashf ettirishning eng samarali usuli:,Qoidani aytish,Bir xil butunni turlicha bo‘lish orqali ko‘rsatish,Faqat misol yechish,Jadval to‘ldirish,B
+O‘lchash mavzusida “aniqlik” tushunchasi nimani anglatadi?,Tez o‘lchash,Natijaning birlik va asbob aniqligiga bog‘liqligi,Yaxlitlashni bilish,Formulani qo‘llash,B
+Yaxlitlashni faqat qoida sifatida berishning xavfi:,Vaqt tejaladi,Son sezgisi shakllanmaydi,Nazorat osonlashadi,Intizom oshadi,B
+Modellashtirishda “validatsiya” nimani bildiradi?,Hisobni takrorlash,Natijaning real vaziyatga mosligini tekshirish,Formulani yozish,Jadval chizish,B
+Validatsiya bosqichini ifodalovchi savol:,Javob nechchi?,Javobimiz hayotiy vaziyatga mos keladimi?,Formulani bilasanmi?,Qaysi qoida?,B
+“O‘quv vazifasi”ni “mashq” bilan almashtirishning xavfi:,O‘quvchi zerikadi,"Fikrlash emas, faqat takrorlash bo‘lib qoladi",Nazorat kamayadi,Tezlik oshadi,B
+“Didaktik kontrakt” buzilishi nimada ko‘rinadi?,O‘quvchi ko‘p savol beradi,O‘quvchi o‘qituvchi aytishini kutadi,Dars tez o‘tadi,Baholar ko‘payadi,B
+O‘qituvchi savolining past darajali ko‘rinishi:,Javob nechchi?,Nega shunday bo‘ldi?,Qanday asoslay olasan?,Boshqa yo‘l bormi?,A
+O‘qituvchi savolining yuqori darajali ko‘rinishi:,Nechta?,Nega shunday bo‘ldi?,Qachon?,Qancha?,B
+Ko‘rgazmali vosita tanlashning asosiy mezoni:,Rang-barangligi,O‘quv maqsadiga mosligi va tushunchani ochib berishi,Arzonligi,Hajmi,B
+“Kritik xossa” nimani anglatadi?,Ikkilamchi belgi,Tushunchani aynan shu tushuncha qiladigan zarur va yetarli belgi,Tasodifiy xususiyat,Grafik ko‘rinish,B
+Matematik xatoni normallashtirish nima uchun kerak?,Jazolashni kamaytirish uchun,Qo‘rquvni kamaytirish va faol fikrlashni rag‘batlantirish uchun,Reytingni oshirish uchun,Vaqtni tejash uchun,B
+“O‘quvchi yutug‘i”ni mikro-baholashning to‘g‘ri talqini:,Umumiy baho qo‘yish,Aniq kriteriy asosida kichik o‘sishni baholash,Reytingni ko‘tarish,Nazorat ishini ko‘paytirish,B
+Metakognitsiya nimani anglatadi?,Tez hisoblash,O‘z fikrlash jarayonini kuzatish va nazorat qilish,Yodlash,Nazorat,B
+“Men bu masalani nega shunday yechdim?” savoli qaysi kompetensiyani ko‘rsatadi?,Tezlik,Refleksiya va metakognitiv nazorat,Yodlash,Intizom,B
+CPA (Concrete–Pictorial–Abstract) ketma-ketligi nimani ta’minlaydi?,Tez algoritmni,Konseptualdan abstrakt yozuvga tabiiy o‘tishni,Nazoratni,Reytingni,B
+PISA yondashuvida matematik savodxonlik markazida:,Formulani bilish,Real hayot vaziyatida matematikani qo‘llash,Jadvalni to‘ldirish,Tezlik,B
+Son tushunchasining “kardinal” aspekti nimani bildiradi?,Tartib,Miqdor (nechta?),Belgini,Rangni,B
+“Nechanchi?” savoli qaysi aspektga tayanadi?,Kardinal,Ordinal,Nol,Razryad,B
+"O‘quvchi muntazam xato qilsa, birinchi tekshiriladigan jihat:",Tezlik,Konseptual tushunish,Reyting,Jadval,B
+Konseptual xato bilan hisob xatosi farqi:,Ikkalasi bir xil,Konseptual – tushuncha xato; hisob – arifmetik xato,Hisob xato – birlik xato,Konseptual – tezlik xato,B
+10-lik sanoq tizimida o‘nlikni o‘rgatish vositasi:,Kalkulyator,Dienes bloklari yoki tayoqcha modeli,Faqat jadval,Faqat formula,B
+Tenglama g‘oyasiga tabiiy kirish:,Standart algoritm,“Noma’lumni topish” tipidagi masalalar,Ko‘paytirish jadvali,Test,B
+"O‘quvchi “7 = 3 + 4” ni qabul qilmasa, bu nimani ko‘rsatadi?",Hisoblash xatosi,Tenglik belgisi noto‘g‘ri talqin qilingan,Distributivlik xatosi,Nol xatosi,B
+Tenglikni chuqur tushunishni shakllantiruvchi topshiriq:,Faqat 3+4=7,7 = □ + 4 tipidagi tenglik,Jadval,Reyting,B
+Matematik tilni rivojlantirishning samarali mikroamaliyoti:,O‘qituvchi gapiradi,O‘quvchini izohlashga majbur qilish,Faqat yozdirish,Test,B
+Kognitiv yuklama oshib ketishining belgisi:,Tez ishlash,Chalkashish va vazifani davom ettira olmaslik,Yuqori baho,Ko‘p savol berish,B
+Scaffolding nimani anglatadi?,Hamma ishni o‘qituvchi bajaradi,"Zarur yordam berib, keyin mustaqillikka o‘tkazish",Reyting oshirish,Nazoratni ko‘paytirish,B
+Differensiallashtirishning to‘g‘ri talqini:,Hammani bir xil o‘qitish,Turli darajadagi topshiriqlar berish,Faqat kuchlilarga berish,Faqat test ishlatish,B
+Formativ baholashning markaziy vazifasi:,Yakuniy baho,O‘qishni yaxshilash uchun qayta aloqa,Reyting,Nazorat,B
+Summativ baholashning vazifasi:,Yakuniy natijani baholash,Qayta aloqa,Strategiya tanlash,Tahlil,A
+Diagnostik baholash dars boshida nimani beradi?,Reyting,Boshlang‘ich darajani aniqlash,Tezlik,Nazorat,B
+O‘quv maqsadi va faoliyat farqi:,Maqsad – natija; faoliyat – unga olib boruvchi ish,Ikkalasi bir xil,Maqsad – test,Faoliyat – baho,A
+Muammoli vaziyat qachon yuzaga keladi?,Hamma javobni bilsa,"Mavjud bilim yetmay, yangi yechim zarur bo‘lsa",Testda,Uy vazifada,B
+“Evristik savollar”ning asosiy funksiyasi:,Tez javob olish,O‘quvchini mustaqil yechim topishga yo‘naltirish,Reyting qo‘yish,Formulani eslatish,B
+Ko‘paytirishni faqat “takroriy qo‘shish” bilan cheklashning xavfi:,Hisob tezlashadi,Ko‘paytirishning boshqa ma’nolari rivojlanmaydi,Jadval mustahkamlanadi,Nazorat osonlashadi,B
+Bo‘lishni faqat “taqsimlash” sifatida berishning xavfi:,Tezlik oshadi,“Nechta sig‘adi?” modeli shakllanmaydi,Yodlash kuchayadi,Jadval to‘ldiriladi,B
+“O‘lchash bo‘lish” modeli qaysi vaziyatga mos?,12 ni 3 ga qo‘shish,12 ta konfetni 3 tadan joylasak nechta paket bo‘ladi?,12 – 3,12 × 3,B
+Prototipik misollarni ko‘p berishning xavfi:,Tezlik oshadi,Transfer pasayadi,Nazorat osonlashadi,Jadval mustahkamlanadi,B
+Transferni kuchaytiruvchi topshiriq:,Bir xil tip misol,Yangi kontekstda qo‘llashni talab qiladigan masala,Jadval,Test,B
+Geometriyada xossa va tasvirni adashtirish kuchayadi qachon?,Ko‘p misol bo‘lsa,Faqat bitta ko‘rinish bilan ishlanganda,Test bo‘lsa,Jadval chizilsa,B
+“To‘g‘ri burchak”ni faqat stol burchagi orqali berish xavfi:,Tez tushuniladi,O‘quvchi faqat shu orientatsiyada tanib qoladi,Jadval osonlashadi,Nazorat kuchayadi,B
+Perimetrdagi tipik noto‘g‘ri konsepsiya:,Perimetrni uzunlik deb bilish,Perimetrni yuza bilan aralashtirish,Nol bilan adashtirish,Tenglikni noto‘g‘ri tushunish,B
+Yuza tushunchasining birinchi tayanchi:,Perimetrni hisoblash,Birlik kvadratlar bilan qoplash,Jadval,Formula,B
+Kasrda “butun”ning aniqligi nega muhim?,Tezlik uchun,Kasr qiymati butun tanloviga bog‘liq,Jadval uchun,Nazorat uchun,B
+Kasrni “ikki sonning yozuvi” deb talqin qilishni kamaytirish usuli:,Qoidani yodlatish,Ulush modelini ko‘rgazmali ko‘rsatish,Jadval,Test,B
+Ulush va kasr farqidagi to‘g‘ri urg‘u:,Ikkalasi bir xil,Ulush – qism; kasr – son sifatida miqdor,Ulush – formula,Kasr – belgi,B
+O‘lchov birliklarini o‘rgatishda asosiy muammo:,Tezlik past,Birlik ma’nosini tushunmasdan formulani yodlash,Jadval yetishmasligi,Nazorat kamligi,B
+“1 m = 100 cm”ni barqaror tushuntirishning eng to‘g‘ri yo‘li:,Qoidani yodlatish,Amaliy o‘lchash va birlikni ko‘rgazmali bog‘lash,Jadval,Test,B
+Matematik model boshlang‘ichda nimani anglatadi?,Formula yozish,Real vaziyatni matematik ifodaga o‘tkazish,Jadval chizish,Reyting,B
+Polya bosqichlari to‘g‘ri ketma-ketligi:,Bajarish → Tekshirish → Tushunish → Reja,Tushunish → Reja → Bajarish → Tekshirish,Reja → Tushunish → Tekshirish → Bajarish,Tekshirish → Reja → Tushunish → Bajarish,B
+"“Ortiq”, “kam”, “marta” so‘zlariga avtomatik yopishish nimaga olib keladi?",Tezlik oshadi,Semantik xato (noto‘g‘ri amal tanlash),Nazorat kuchayadi,Jadval mustahkamlanadi,B
+“Kalit so‘z” strategiyasini nima bilan muvozanatlash kerak?,Tezlik bilan,Semantik tahlil va model bilan,Jadval bilan,Test bilan,B
+Matematik muloqot kompetensiyasi qanday o‘lchanadi?,Tez hisoblash,Fikrni matematik tilda tushuntira olish,Jadval,Reyting,B
+Noto‘g‘ri javobni tahlil qilish nimani rivojlantiradi?,Tezlik,Tanqidiy fikrlash,Yodlash,Intizom,B
+Konkret vosita haddan ortiq ishlatilsa:,Tezlik oshadi,Abstrakt fikrlashga o‘tish qiyinlashadi,Jadval mustahkamlanadi,Nazorat osonlashadi,B
+Konkret vositadan belgiga o‘tishning to‘g‘ri ko‘prigi:,Formula,Tasviriy model (CPA pictorial bosqichi),Test,Reyting,B
+Matematik induksiya (boshlang‘ich darajada) nimani anglatadi?,Formal isbot,Ko‘p misoldan umumiy qoida chiqarish,Jadval,Nazorat,B
+Deduksiya nimani anglatadi?,Misoldan qoida,Umumiy qoidadan aniq misolga qo‘llash,Jadval,Tezlik,B
+Analogiya usuli eng samarali qachon ishlaydi?,Yangi mavzu butunlay aloqasiz bo‘lsa,Yangi tushuncha oldingi bilimga o‘xshatib tushuntirilganda,Faqat formulalar berilganda,Nazorat ishida,B
+"O‘quvchi 12:3=4 ni bilib, 12:4=3 ni rad etsa, bu nimani ko‘rsatadi?",Hisob xatosi,Bo‘lishni teskari amal sifatida tushunmaslik,Nol xatosi,Distributivlik xatosi,B
+Teskari amallarni o‘rgatishning eng to‘g‘ri usuli:,Har birini alohida o‘rganish,Qo‘shish–ayirish va ko‘paytirish–bo‘lishni juftlab mashq qilish,Faqat jadval,Faqat test,B
+Bloom taksonomiyasida yuqori darajali fe’l:,Eslab qolish,Tahlil qilish,Qayta yozish,Ko‘rsatish,B
+Kriterial baholash nimaga tayanadi?,O‘quvchilarni solishtirishga,Belgilangan me’yor va natijaga,Reytingga,Tezlikka,B
+Rubrikaning asosiy funksiyasi:,Ballni yashirish,Baholashni shaffof va izchil qilish,Tez tekshirish,Nazoratni kamaytirish,B
+“Xato banki” yuritish nimani beradi?,O‘quvchini jazolash,Tipik xatolarni aniqlash va oldini olish strategiyasini ishlab chiqish,Reyting oshirish,Jadval to‘ldirish,B
+Interfaol usul mezoni:,O‘qituvchi ko‘p gapiradi,O‘quvchi faol ishtirok etadi va o‘zini tekshiradi,Test ko‘p bo‘ladi,Jadval ishlatiladi,B
+Guruhli ish samaradorligi sharti:,Kuchli o‘quvchi hamma ishni qiladi,Rollar taqsimlanadi va hamma faol qatnashadi,Faqat bitta javob bo‘ladi,Reyting beriladi,B
+Matematik argumentni baholash mezoni:,Tezlik,Dalillar asosida mantiqiy izoh,Jadval,Qisqaligi,B
+Konseptual tushunishni tekshiruvchi topshiriq:,20 ta tez misol,Asoslash va qarshi misol keltirish,Jadval,Test,B
+Protseduraviy ravonlikni tekshiruvchi topshiriq:,Tez va xatosiz amal bajarish,Asoslash,Qarshi misol,Tahlil,A
+“Xatodan o‘qitish” prinsipi nimaga yaqin?,Jazolash,Konstruktiv feedback va xatoni o‘rganish vositasi sifatida ko‘rish,Reyting oshirish,Testni ko‘paytirish,B
+Darsdagi yakuniy refleksiya vazifasi:,Yangi mavzu boshlash,O‘quvchining tushunchani qayta ko‘rib chiqishi,Reyting qo‘yish,Jadval to‘ldirish,B
+Spiral qurilish nimani anglatadi?,Bir marta o‘rganish,Mavzuni bosqichma-bosqich chuqurlashtirib qaytish,Testni ko‘paytirish,Jadvalni yangilash,B
+Konsentr tamoyili (o‘nlik–yuzlik–minglik):,Tezlik,Joy qiymatini bosqichma-bosqich mustahkamlash,Reyting,Nazorat,B
+Joy qiymatidagi tipik noto‘g‘ri tasavvur:,305 ni uch yuz besh deyish,305 ni “uch besh” deb o‘qish,305 ni 350 deyish,305 ni 3+5 deyish,B
+305 ni noto‘g‘ri o‘qishning asosiy sababi:,Tezlik,O‘nlik pozitsiyasini tushunmaslik,Nolni ko‘rmaslik,Jadval bilmaslik,B
+Sinf ichidagi amaliy tajriba nomi:,Nazorat ishi,Pedagogik eksperiment,Reyting,Jadval,B
+Pedagogik eksperimentdagi “nazorat” komponenti:,Jazolash,Natijani solishtirish uchun asos,Tezlikni oshirish,Reyting,B
+Muammoli savolning xususiyati:,Faqat bitta javob,"Fikrlashni talab qiladi, yechimi darhol ko‘rinmaydi",Jadval,Test,B
+Kognitiv yuklama nazariyasida boshqarilishi kerak bo‘lgan omil:,Rang,Ichki va ortiqcha yuk,Reyting,Jadval,B
+Ichki yuk nimaga bog‘liq?,O‘qituvchi kayfiyatiga,Mavzu murakkabligi va bilim darajasiga,Reytingga,Rangga,B
+Ortiqcha yukni oshiruvchi holat:,Strukturali tushuntirish,Chalkash va keraksiz ma’lumot,Model ishlatish,Segmentlash,B
+Germane load nimani anglatadi?,Tezlik,Konseptual tushunishni rivojlantirishga yo‘naltirilgan kognitiv yuk,Reyting,Nazorat,B
+Segmentlash strategiyasi qaysi muammoni kamaytiradi?,Ichki yukni butunlay yo‘q qiladi,Katta axborotni kichik bloklarga ajratib ortiqcha yukni kamaytiradi,Motivatsiyani pasaytiradi,O‘quvchini mustaqillikdan mahrum qiladi,B
+Worked example metodining asosiy xavfi qachon yuz beradi?,Juda qiyin masalada,O‘quvchi faol fikrlamasdan faqat nusxa ko‘chirganda,Misol soni kam bo‘lsa,Testda ishlatilsa,B
+Self-explanation effekti nimaga asoslanadi?,Ko‘proq yozish,O‘quvchining har qadamni ongli ravishda tushuntirishi,Yodlashni kuchaytirish,Tezlikni oshirish,B
+Fading jarayoni qaysi ketma-ketlikda samarali?,Mustaqil ish → ko‘rsatma → model,Model → yo‘naltirilgan mashq → mustaqil ish,Test → nazorat → refleksiya,Baholash → mashq → model,B
+Dual coding prinsipida asosiy shart:,Bir xil ma’lumotni ikki marta yozish,Vizual va verbal axborot o‘zaro to‘ldiruvchi bo‘lishi,Rasm ko‘p bo‘lishi,Matn kam bo‘lishi,B
+Modallik effekti qachon buziladi?,Ovoz ishlatilganda,Vizual kanal haddan ortiq yuklanganda,Matn qisqa bo‘lsa,Model ishlatilsa,B
+Redundancy effekti nimaga olib keladi?,Tushunish oshadi,Kognitiv resurslar behuda sarflanadi,Motivatsiya oshadi,Transfer kuchayadi,B
+Split-attention effekti tipik qaysi vaziyatda yuz beradi?,Ma’lumot bir joyda jamlangan bo‘lsa,Diagramma va izoh turli joyda berilganda,Faqat og‘zaki tushuntirishda,Segmentlashda,B
+ZPD ga mos topshiriq mezoni:,O‘quvchi mustaqil bajara oladigan,Ozgina tayanch bilan bajara oladigan,Umuman bajara olmaydigan,Juda oson topshiriq,B
+Scaffoldingning noto‘g‘ri qo‘llanilishi qachon yuz beradi?,Tayanch vaqtida olib tashlansa,Tayanch doimiy bo‘lib qolsa,Model ishlatilsa,Savol berilsa,B
+Formativ baholashning asosiy farqi nimada?,Yakuniy baho qo‘yishga xizmat qiladi,O‘qitish jarayonini real vaqt rejimida moslashtirishga xizmat qiladi,Reytingni aniqlash uchun ishlatiladi,Faqat nazorat ishida qo‘llanadi,B
+Summativ baholash qachon metodik jihatdan asosli hisoblanadi?,Har dars oxirida,O‘quv jarayoni yakunida natijani umumlashtirish uchun,Dars boshida,Muammoli vaziyatda,B
+Diagnostik baholashning eng muhim funksiyasi:,Ball qo‘yish,Xatolar manbasini aniqlash,Tezlikni o‘lchash,Reytingni ko‘tarish,B
+Rubrikaning noto‘g‘ri tuzilishi qaysi muammoga olib keladi?,O‘quvchi tez ishlaydi,Baholash subyektiv va noaniq bo‘lib qoladi,Test osonlashadi,Jadval ortadi,B
+Kriterial va normativ baholashning asosiy farqi:,Ikkalasi ham bir xil,"Biri standartga, biri guruh natijasiga tayanadi","Biri og‘zaki, biri yozma","Biri tez, biri sekin",B
+"Reliability past bo‘lsa, bu nimani bildiradi?",Test juda qiyin,Natijalar takrorlanganda barqaror emas,Validlik yuqori,Test qisqa,B
+Validlik buzilishi qachon yuz beradi?,Test uzun bo‘lsa,Test o‘lchashi kerak bo‘lgan kompetensiyani o‘lchamasa,Ko‘p savol bo‘lsa,Variantlar qisqa bo‘lsa,B
+Kontent validligini ta’minlash uchun nima zarur?,Ko‘p savol berish,Savollarni o‘quv maqsadi bilan moslashtirish,Reyting qo‘yish,Variantlarni uzun qilish,B
+Distraktorlar samarali bo‘lishi uchun:,Mutlaqo mantiqsiz bo‘lishi,Tipik konseptual xatolarga asoslanishi,Juda uzun bo‘lishi,Juda qisqa bo‘lishi,B
+Multiple-choice testda “guessing” ta’sirini kamaytirish:,2 variant qilish,Distraktorlarni konseptual jihatdan yaqin qilish,To‘g‘ri javobni uzunroq qilish,Ballni oshirish,B
+Learning gain ni noto‘g‘ri talqin qilish qaysi holatda yuz beradi?,Pretest va posttest ishlatilganda,Faqat yakuniy natijaga qarab baholaganda,O‘sishni hisoblaganda,Farqni tahlil qilganda,B
+Pretest–posttest dizaynining asosiy xavfi:,Test kam bo‘lsa,Tashqi omillar ta’sirini hisobga olmaslik,Natija oshishi,Reyting ko‘tarilishi,B
+Tiered topshiriq noto‘g‘ri tuzilsa nima yuz beradi?,Differensiallashtirish kuchayadi,O‘quvchilar darajasi noto‘g‘ri baholanadi,Transfer oshadi,Tezlik oshadi,B
+UDL tamoyilini noto‘g‘ri qo‘llash:,Turli format ishlatish,"Har xil shakl berib, lekin maqsadni aniqlamaslik",Individual yondashuv,Moslashuvchanlik,B
+Entry va Exit topshiriqlarni aralashtirish oqibati:,Dars tez o‘tadi,Diagnostika va refleksiya funksiyasi chalkashadi,Transfer kuchayadi,Motivatsiya oshadi,B
+Learning gain ni to‘g‘ri hisoblash uchun qaysi ma’lumotlar zarur?,Faqat yakuniy test natijasi,Boshlang‘ich va yakuniy ko‘rsatkichlar o‘rtasidagi farq,Reyting jadvali,Test savollari soni,B
+Pretest–posttest dizaynida ichki validlikni pasaytiruvchi omil:,Bir xil topshiriq ishlatilishi,Tashqi o‘quv ta’sirlarini nazorat qilmaslik,O‘sishni hisoblash,Statistik tahlil qilish,B
+Differensial topshiriqning metodik mezoni:,Har kimga turli savol berish,Bir maqsadni turli murakkablik darajasida taqdim etish,Kuchlilarga alohida vazifa berish,Test sonini ko‘paytirish,B
+UDL tamoyilining mazmuniy talqini:,Har bir o‘quvchi uchun alohida dars,"Ma’lumotni turli formatda, natijani turli usulda namoyish qilish imkoniyati",Faqat vizual vosita ishlatish,Faqat og‘zaki baholash,B
+Entry task noto‘g‘ri qo‘llansa nima yuz beradi?,Motivatsiya ortadi,Boshlang‘ich diagnostika amalga oshmaydi,O‘quvchi tez ishlaydi,Dars qisqaradi,B
+Exit ticket samaradorligi nimaga bog‘liq?,Savollar soniga,Dars maqsadi bilan bevosita bog‘liqligiga,Qog‘oz shakliga,Reytingga,B
+O‘quvchi strategiyasini aniqlashda eng ishonchli dalil:,Yakuniy natija,Yechim jarayonining bosqichma-bosqich asoslanishi,Tezlik,Boshqa o‘quvchi fikri,B
+Sentence starterlar noto‘g‘ri qo‘llansa:,Til rivojlanadi,O‘quvchi tayyor konstruktsiyaga bog‘lanib qoladi,Tezlik oshadi,Reyting ortadi,B
+Akademik halollikni mustahkamlashning konstruktiv usuli:,Jazoni kuchaytirish,Jarayonni ochiq tushuntirish va xatoni tahlil qilish,Testni qisqartirish,Variantni yashirish,B
+Transfer yuz bermayotganini qanday aniqlash mumkin?,O‘quvchi tez ishlasa,Yangi kontekstda strategiyani qo‘llay olmasa,Testdan yuqori ball olsa,Jadvalni bilsa,B
+Yangi kontekstdagi masala qiyinlashish sababi:,Sonlar katta bo‘lgani uchun,Sxemani mustaqil tanlash zarurati,Jadval yo‘qligi,Ko‘p yozish kerakligi,B
+Metodik minimalizm noto‘g‘ri talqini:,Zarur yordam berish,Hech qanday yo‘riq bermaslik,Mustaqillikni oshirish,Refleksiya qilish,B
+Numeracy kompetensiyasining indikatorlari:,Formulani yod bilish,Kundalik vaziyatda miqdoriy qaror qabul qilish,Jadvalni tez to‘ldirish,Reyting yig‘ish,B
+Abstraksiyalash jarayonida qaysi xato tez-tez uchraydi?,Misol ko‘paytirish,Konkret modeldan umumiy xossaga o‘tmaslik,Jadval ishlatish,Tezlikni oshirish,B
+CPA modelida pictorial bosqichning vazifasi:,Formal formulaga o‘tish,Konkret tajriba bilan abstrakt belgini bog‘lash,Test ishlash,Reyting qo‘yish,B
+Representatsiyalararo ko‘chishda eng tipik qiyinchilik:,Rang tanlash,Model va simvol orasidagi semantik moslikni ko‘rmaslik,Yozuv uzunligi,Jadval yetishmasligi,B
+Adaptive expertise rivojlanishi uchun zarur shart:,Bitta universal algoritm,Turli strategiyalarni solishtirish va tanlash,Faqat tezlik,Faqat test,B
+Boshlang‘ich darajadagi dalillashning noto‘g‘ri ko‘rinishi:,Model ishlatish,Faqat bitta misol bilan umumiy xulosa chiqarish,Qarshi misol keltirish,Asoslash talab qilish,B
+Kognitiv sxema shakllanganini qanday bilamiz?,O‘quvchi tez javob bersa,O‘xshash va farqli vaziyatda bir xil strukturani tanisa,Reyting oshsa,Jadvalni bilsa,B
+Ko‘p qadamli masalada rejalashtirish xatosi:,Hisob xatosi,Qadamlar mantiqiy ketma-ketligini aniqlamaslik,Nolni noto‘g‘ri yozish,Jadvalni unutish,B
+Matematik diskursni samarali boshqarish nimani talab qiladi?,O‘qituvchi har savolga darhol javob berishini,O‘quvchi fikrini ochishga yo‘naltirilgan savollar tizimini,Faqat to‘g‘ri javoblarni tasdiqlashni,Muhokamani tez yakunlashni,B
+Yashirin konseptual xatoni aniqlashning eng samarali usuli:,Faqat yakuniy javobni tekshirish,Yechim jarayonini og‘zaki asoslatish,Test ballini solishtirish,Ko‘proq misol berish,B
+Qarshi misolning epistemik vazifasi:,Qoidani mustahkamlash,Umumlashmaning chegarasini ko‘rsatish,Tezlikni oshirish,Reytingni ko‘tarish,B
+“Magnitude sense” rivojlanmagan o‘quvchi odatda:,Formulani unutadi,Sonlarning nisbiy kattaligini noto‘g‘ri baholaydi,Jadvalni bilmaydi,Tez yozmaydi,B
+"Algoritmik ravonlik mavjud, lekin konseptual tushunish yo‘q bo‘lsa:",Transfer yuqori bo‘ladi,Yangi vaziyatda amalni qo‘llash qiyinlashadi,Tezlik oshadi,Reyting ko‘tariladi,B
+Peer assessment samarali bo‘lishi uchun zarur shart:,O‘quvchilar bir-biriga baho qo‘yishi,Aniq kriteriy va tahlilga asoslangan muhokama,Faqat kuchli o‘quvchi tekshirishi,Ballni yashirish,B
+Masala kontekstini o‘zgartirishning asosiy maqsadi:,Murakkablikni oshirish,Strukturani kontekstdan ajratib ko‘ra olishni tekshirish,Jadval ishlatish,Reytingni oshirish,B
+Modellashtirishning birinchi bosqichida asosiy xavf:,Formula yozmaslik,Real vaziyatni noto‘g‘ri talqin qilish,Jadval chizmaslik,Hisoblashda xato qilish,B
+Reflektiv savol samarali bo‘lishi uchun:,Qisqa bo‘lishi,O‘quvchini o‘z strategiyasini tahlil qilishga undashi,Ball bilan bog‘liq bo‘lishi,Faqat yakuniy javobni so‘rashi,B
+Kognitiv konflikt natijasida o‘rganish yuz berishi uchun:,O‘quvchi xatosini inkor qilishi,Yangi tushunchani ongli ravishda qayta qurishi,Ko‘p misol berilishi,Test o‘tkazilishi,B
+Didaktik spiral modelida har bir qaytish bosqichi:,Yangi mavzu boshlaydi,Oldingi bilimni kengaytiradi va chuqurlashtiradi,Faqat takrorlash qiladi,Nazorat o‘tkazadi,B
+Ochiq savolning didaktik afzalligi:,Tez tekshiriladi,Turli strategiyalarni yuzaga chiqaradi,Ball qo‘yish oson,Faqat bitta to‘g‘ri javob bor,B
+Mantiqiy xato bilan hisob xatosi farqi:,Ikkalasi ham amaliy xato,"Biri xulosa darajasida, biri amal darajasida yuz beradi",Ikkalasi ham formulaga bog‘liq,Ikkalasi ham tezlikka bog‘liq,B
+HOTS (yuqori darajali savol) odatda:,Faktni eslatadi,"Tahlil, baholash yoki yaratishni talab qiladi",Jadvalni tekshiradi,Tezlikni o‘lchaydi,B
+Ko‘rgazmali model noto‘g‘ri tanlansa:,Tezlik oshadi,Tushuncha noto‘g‘ri generalizatsiya qilinadi,Jadval osonlashadi,Reyting ko‘tariladi,B
+Nisbiy tushunchani (kattaroq–kichikroq) shakllantirish uchun:,Faqat formula berish,Bir nechta taqqoslash kontekstini taqdim etish,Jadval ishlatish,Test o‘tkazish,B
+Problem posing faoliyati qaysi kognitiv darajani kuchaytiradi?,Eslab qolish,Sintez va yaratish,Jadvalni to‘ldirish,Tezlikni oshirish,B
+Analiz jarayonida o‘quvchi:,Javobni tez aytadi,Masalani tarkibiy qismlarga ajratadi,Jadval chizadi,Reyting oladi,B
+Sintez jarayonida o‘quvchi:,Amal bajaradi,Elementlarni birlashtirib yangi tuzilma yaratadi,Jadvalni to‘ldiradi,Tez yozadi,B
+Analogiya noto‘g‘ri qo‘llansa:,Tezlik oshadi,Noto‘g‘ri umumlashtirish yuz beradi,Jadval ko‘payadi,Reyting ko‘tariladi,B
+Matematik til aniqligi nimani talab qiladi?,"O‘quvchi formulani to‘g‘ri yozishini talab qiladi, lekin izoh berishini shart qilmaydi",O‘quvchi termin va belgilarni ma’nosiga mos ravishda izoh bilan qo‘llay olishini talab qiladi,O‘quvchi faqat qisqa javob berishini talab qiladi,O‘quvchi javobni tez yozishini talab qiladi,B
+Yaqin transfer yuz berayotganini qanday aniqlash mumkin?,O‘quvchi yangi kontekstdagi murakkab masalani mustaqil yecha olsa,O‘quvchi o‘xshash tuzilishga ega vaziyatda avvalgi strategiyani qo‘llay olsa,O‘quvchi formulani yoddan ayta olsa,O‘quvchi testdan yuqori ball olsa,B
+"Uzoq transfer rivojlanmagan bo‘lsa, odatda qanday holat kuzatiladi?",O‘quvchi bir xil tip masalalarni tez bajaradi,"O‘quvchi yangi kontekstda strukturani tanimay, strategiya tanlay olmaydi",O‘quvchi jadvalni unutadi,O‘quvchi yozishda xato qiladi,B
+Metakognitiv pauza metodik jihatdan samarali bo‘lishi uchun:,O‘quvchi tanaffus qilishi yetarli,"O‘quvchi o‘z strategiyasini qayta ko‘rib chiqib, nima uchun shunday tanlaganini tahlil qilishi zarur",O‘quvchi javobni o‘chirib qayta yozishi kifoya,O‘quvchi boshqa misol ishlashi kerak,B
+O‘zini baholash varaqasi haqiqiy refleksiyani shakllantirishi uchun:,Faqat ball qo‘yish mezoni bo‘lishi kerak,O‘quvchi o‘z kuchli va zaif tomonlarini mezon asosida tahlil qilishi kerak,Jadval to‘ldirish kifoya,Testdan keyin tarqatish yetarli,B
+Matematik savodxonlik testi real vaziyatni kiritganda nimani tekshiradi?,O‘quvchi formulani to‘g‘ri eslab qolganini tekshiradi,O‘quvchi matematik tushunchani real kontekstga moslashtirib qo‘llay olishini tekshiradi,O‘quvchi hisoblash tezligini tekshiradi,O‘quvchi jadvalni bilishini tekshiradi,B
+Learner profile ni hisobga olish metodik jihatdan nimani anglatadi?,Har bir o‘quvchiga alohida dars o‘tishni anglatadi,O‘quvchining bilim darajasi va ehtiyojiga mos strategiya tanlashni anglatadi,Faqat kuchli o‘quvchilarga murakkab topshiriq berishni anglatadi,Reyting asosida guruhlashni anglatadi,B
+Matematik fikrlash chuqurligi qanday ko‘rsatkich bilan aniqlanadi?,O‘quvchi javobni tez aytishi bilan aniqlanadi,"O‘quvchi yechimni mantiqiy izohlab, alternativ strategiyalarni solishtira olishi bilan aniqlanadi",O‘quvchi ko‘p misol ishlashi bilan aniqlanadi,O‘quvchi yuqori ball olishi bilan aniqlanadi,B
+"Konseptual xarita dars oxirida qo‘llansa, metodik natija nima bo‘ladi?",O‘quvchi ko‘proq faktlarni yodlaydi,O‘quvchi tushunchalar orasidagi bog‘lanishni tizimli ravishda ko‘ra oladi,O‘quvchi tezroq yozadi,O‘quvchi ko‘proq test ishlaydi,B
+Matematik intizomiy amaliyotlardan biri nimani o‘z ichiga oladi?,Faqat standart algoritmni qo‘llashni o‘z ichiga oladi,"Muammoni mantiqiy dalillar bilan asoslab, yechimni himoya qilishni o‘z ichiga oladi",Jadvalni to‘ldirishni o‘z ichiga oladi,Faqat tezlikni o‘lchashni o‘z ichiga oladi,B
+Ichki motivatsiyani shakllantirishda eng samarali metodik shart:,O‘quvchini yuqori ball bilan rag‘batlantirish,O‘quvchiga muammoni mustaqil hal qilib muvaffaqiyatni his qilish imkonini berish,Ko‘p uy vazifa berish,Nazorat ishini ko‘paytirish,B
+Muammoli vaziyatning epistemik belgisi nimada?,O‘quvchi darhol javobni biladi,O‘quvchi mavjud bilim bilan muammo o‘rtasida ziddiyat sezadi,O‘quvchi ko‘p yozadi,O‘quvchi test ishlaydi,B
+Matematik kompetensiya kompleks tuzilma sifatida nimani o‘z ichiga oladi?,Faqat protseduraviy ravonlikni o‘z ichiga oladi,"Konseptual tushunish, protseduraviy malaka, muloqot va reflektiv fikrlashni o‘z ichiga oladi",Faqat tezlikni o‘z ichiga oladi,Faqat test natijasini o‘z ichiga oladi,B
+Yuqori sifatli dars dizaynida integrativlik nimani anglatadi?,Ko‘p metod ishlatishni anglatadi,"Maqsad, faoliyat va baholash o‘rtasidagi mantiqiy uyg‘unlikni anglatadi",Darsni qisqa qilishni anglatadi,Faqat texnologiya ishlatishni anglatadi,B
+Son tushunchasining ontologik shakllanishi nimaga asoslanadi?,Sonni abstrakt belgi sifatida yodlashga asoslanadi,Sonni real predmetlar va miqdoriy tajriba bilan bog‘lashga asoslanadi,Faqat formulani o‘rganishga asoslanadi,Faqat jadvalni bilishga asoslanadi,B
+Arifmetik amal mazmunini induktiv umumlashtirish nimani talab qiladi?,O‘quvchi formulani yoddan aytishini talab qiladi,O‘quvchi bir nechta misoldan umumiy xossa va munosabatni mustaqil chiqarishini talab qiladi,O‘quvchi jadvalni to‘ldirishini talab qiladi,O‘quvchi tez hisoblashini talab qiladi,B
+Bo‘lish amalini o‘lchash modeli orqali tushuntirish nimani anglatadi?,Miqdorni teng taqsimlashni ko‘rsatishni anglatadi,Berilgan miqdorda nechta teng birlik sig‘ishini aniqlashni anglatadi,Qoldiqni topishni anglatadi,Formulani qo‘llashni anglatadi,B
+Matematik tafakkurning reflektiv komponenti nimada namoyon bo‘ladi?,O‘quvchi tez javob berishda namoyon bo‘ladi,O‘quvchi o‘z yechimining mantiqiy asosini tahlil qila olganda namoyon bo‘ladi,O‘quvchi ko‘p misol ishlaganda namoyon bo‘ladi,O‘quvchi yuqori ball olganda namoyon bo‘ladi,B
+Algebra elementlarini propedevtik kiritishning metodik maqsadi:,Formulalarni erta yodlatish,O‘zgaruvchi va umumiy ifoda tushunchasiga tayyorlash,Tenglama sonini ko‘paytirish,Nazoratni kuchaytirish,B
+Modellashtirishning semiotik funksiyasi nimani ta’minlaydi?,O‘quvchi jadval chizishini ta’minlaydi,Real vaziyatni matematik belgilar va reprezentatsiyalar orqali ifodalashni ta’minlaydi,O‘quvchi formulani yodlashini ta’minlaydi,O‘quvchi tez hisoblashini ta’minlaydi,B
+Didaktik transformatsiya jarayonining mohiyati:,Ilmiy matnni qisqartirishdan iborat,Murakkab matematik mazmunni o‘quvchiga mos kognitiv shaklga keltirishdan iborat,Test savollarini ko‘paytirishdan iborat,Reytingni oshirishdan iborat,B
+Kompetensiyaviy yondashuvda matematik savodxonlik nimani bildiradi?,Faqat nazariy bilimni bildiradi,Nazariy bilimni real vaziyatda qo‘llay olish qobiliyatini bildiradi,Faqat hisob tezligini bildiradi,Faqat test natijasini bildiradi,B
+Matematik xatoni diagnostika qilishning analitik bosqichi nimani o‘z ichiga oladi?,Faqat noto‘g‘ri javobni belgilashni o‘z ichiga oladi,Xatoning turini aniqlash va sababini tushuntirishni o‘z ichiga oladi,Ballni kamaytirishni o‘z ichiga oladi,Ko‘proq misol berishni o‘z ichiga oladi,B
+Tushunchaning invariant yadrosi nimani anglatadi?,Tushunchaning tashqi ko‘rinishini anglatadi,"Tushunchaning o‘zgarmas, asosiy mazmuniy xususiyatini anglatadi",Tushunchaning grafik tasvirini anglatadi,Tushunchaning formulaviy yozuvini anglatadi,B
+Generalizatsiya jarayonidagi asosiy metodik xato:,Ko‘p misol berish,Yetarli misol va kontr-misol bermasdan umumiy qoida chiqarish,Jadval ishlatish,Refleksiya qilish,B
+Strukturaviy ko‘rish nimani bildiradi?,O‘quvchi sonlarni tez ayta olishini bildiradi,O‘quvchi amal va ifodalardagi ichki tuzilmani tanib ola olishini bildiradi,O‘quvchi jadvalni bilishini bildiradi,O‘quvchi formulani yod bilishini bildiradi,B
+Kontrast misollardan foydalanishning metodik vazifasi:,Tezlikni oshirish,Muhim xossani ajratib ko‘rsatish va noto‘g‘ri umumlashtirishni oldini olish,Testni murakkablashtirish,Jadvalni mustahkamlash,B
+Representatsiyalararo ko‘chishda asosiy xavf nimada?,Rang noto‘g‘ri tanlanishida,Bir reprezentatsiyadagi mazmunni boshqasiga semantik jihatdan mos ko‘chira olmaslikda,Jadval ishlatmaslikda,Tezlik pastligida,B
+Muammoli vaziyatning epistemik funksiyasi nimadan iborat?,O‘quvchini nazorat qilishdan iborat,O‘quvchini yangi tushuncha qurishga majbur qiladigan bilish ziddiyatini yuzaga keltirishdan iborat,Ball qo‘yishdan iborat,Jadval to‘ldirishdan iborat,B
+Metakognitiv monitoring nimani anglatadi?,O‘quvchi faqat javobni tekshiradi,O‘quvchi yechim jarayonini ongli ravishda kuzatadi va baholaydi,O‘quvchi tez yozadi,O‘quvchi ko‘p misol ishlaydi,B
+Kasr tushunchasini noto‘g‘ri umumlashtirish qanday kognitiv xatoga olib keladi?,Kasrni faqat son sifatida ko‘rishga olib keladi,Kasrni faqat surat va maxraj yozuvi sifatida talqin qilishga olib keladi,Kasrni butun son deb qabul qilishga olib keladi,Kasrni formula deb qabul qilishga olib keladi,B
+Semantik tahlil bosqichi masala yechishda nimani ta’minlaydi?,Tez hisoblashni ta’minlaydi,Amal tanlashdan oldin vaziyat mazmunini tushunishni ta’minlaydi,Jadval tuzishni ta’minlaydi,Ball oshishini ta’minlaydi,B
+Spiral modelda qaytish bosqichi nimani ta’minlaydi?,Faqat takrorlashni ta’minlaydi,Ilgari o‘rganilgan tushunchani chuqurlashtirib qayta ko‘rib chiqishni ta’minlaydi,Nazoratni ta’minlaydi,Test sonini oshiradi,B
+Boshlang‘ich dalillash nimaga asoslanadi?,Formal isbot tizimiga asoslanadi,Oddiy misollar va qarshi misollar orqali mantiqiy asoslashga asoslanadi,Jadval to‘ldirishga asoslanadi,Kalkulyator ishlatishga asoslanadi,B
+Pozitsion yozuv tizimida asosiy semantik qiyinchilik nimada?,Son uzun bo‘lishida,Har bir raqamning joy qiymati va nolning funksiyasini tushunishda,Jadval chizishda,Tez yozishda,B
+"Algoritmik ravonlik yuqori bo‘lsa, lekin konseptual tushunish past bo‘lsa:",Transfer doimo yuqori bo‘ladi,O‘quvchi yangi tip masalalarda qiynaladi,Tezlik pasayadi,Ball kamayadi,B
+Uzoq transfer yuzaga kelishi uchun zarur shart:,Ko‘p bir xil misol ishlash,Tushunchaning umumiy va abstrakt sxemasini shakllantirish,Jadvalni mukammal bilish,Tez yozish,B
+Masala tuzish faoliyati nimani rivojlantiradi?,Faqat yodlashni rivojlantiradi,Tushunchani chuqur anglash va yaratuvchanlikni rivojlantiradi,Faqat tezlikni rivojlantiradi,Faqat jadvalni rivojlantiradi,B
+Matematik diskursning rivojlanish sharti:,O‘qituvchi ko‘p gapirishi,"O‘quvchi fikrini asoslab, boshqalarning fikriga munosabat bildira olishi",Ball yuqori bo‘lishi,Test ko‘p bo‘lishi,B
+Didaktik to‘qnashuv samarali bo‘lishi uchun:,O‘quvchi xatosini yashirishi kerak,"O‘quvchi ziddiyatni anglab, yangi tushuncha qurishi kerak",Test o‘tkazilishi kerak,Ball kamaytirilishi kerak,B
+Statistik elementlarni kiritishning metodik maqsadi:,Formulani yodlatish,Ma’lumotni tahlil qilish va xulosa chiqarish ko‘nikmasini shakllantirish,Reytingni oshirish,Tezlikni oshirish,B
+Matematik kompetensiyaning aksiologik komponenti nimani anglatadi?,Tez hisoblashni anglatadi,Matematik bilimning qadri va amaliy ahamiyatini anglashni anglatadi,Jadvalni bilishni anglatadi,Test natijasini anglatadi,B
+Konstruktiv yondashuv nimani nazarda tutadi?,O‘qituvchi tayyor bilim beradi,O‘quvchi faol tajriba orqali bilimni o‘zi quradi,Faqat nazorat o‘tkaziladi,Faqat test ishlatiladi,B
+Konseptual dekontekstualizatsiya nimani anglatadi?,Masalani murakkablashtirishni anglatadi,Tushunchani real kontekstdan ajratib umumiy shaklda ifodalashni anglatadi,Jadval ishlatishni anglatadi,Ball qo‘yishni anglatadi,B
+Operatsion va konseptual daraja farqi nimada?,Ikkalasi ham amal bajarish,"Biri bajarish, biri mazmunni tushunish bilan bog‘liq",Ikkalasi ham tezlik,Ikkalasi ham test,B
+Didaktik minimalizmning mohiyati:,Ko‘rsatmasiz o‘qitish,"Zarur yordamni berib, ortiqcha yuklamani kamaytirish",Faqat test ishlatish,Faqat nazorat o‘tkazish,B
+Abstraksion bosqich nimani anglatadi?,Rangni o‘zgartirishni anglatadi,Real vaziyatni umumiy matematik modelga aylantirishni anglatadi,Jadval chizishni anglatadi,Ball qo‘yishni anglatadi,B
+Strukturaviy xato nimada yuz beradi?,Hisoblash jarayonida yuz beradi,Tushunchaning ichki mantiqiy tuzilmasi noto‘g‘ri talqin qilinganda yuz beradi,Tez yozishda yuz beradi,Jadval to‘ldirishda yuz beradi,B
+Reflektiv kompetensiya nimani bildiradi?,O‘quvchi tez ishlaydi,"O‘quvchi o‘z fikrlash jarayonini baholab, zarur bo‘lsa o‘zgartira oladi",O‘quvchi jadvalni biladi,O‘quvchi yuqori ball oladi,B
+Chegaraviy misol metodik jihatdan nimani ta’minlaydi?,Tezlikni oshiradi,Tushunchaning amal qilish doirasini aniq belgilaydi,Jadvalni mustahkamlaydi,Testni osonlashtiradi,B
+Nolning pozitsion tizimdagi metodik qiyinchiligi nimada?,Nol yozilishi qiyin,Nol mavjud bo‘lsa ham miqdor o‘zgarmasligini tushunish qiyin,Nol jadvalda ko‘rinmaydi,Nol tez yozilmaydi,B
+Dalillashning propedevtik shakli qaysi faoliyatda namoyon bo‘ladi?,Formal aksiomatik isbotda,Oddiy mantiqiy asoslash va misol orqali tekshirishda,Jadval to‘ldirishda,Kalkulyator ishlatishda,B
+Metodik rekonstruksiya nimani anglatadi?,Testni qayta yozishni anglatadi,Ilmiy mazmunni o‘quvchining kognitiv darajasiga mos shaklda qayta qurishni anglatadi,Jadvalni yangilashni anglatadi,Ballni oshirishni anglatadi,B
+Aksiologik komponent darsda qanday namoyon bo‘ladi?,Tez hisoblash orqali namoyon bo‘ladi,Matematik bilimning hayotiy qiymatini anglash orqali namoyon bo‘ladi,Jadval ishlatish orqali namoyon bo‘ladi,Reyting olish orqali namoyon bo‘ladi,B
+Semantik ortiqchalikning asosiy xavfi nimada?,Matn qisqaradi,O‘quvchi asosiy ma’nodan chalg‘ib qoladi,Test osonlashadi,Tezlik oshadi,B
+Integrativ vazifa nimani talab qiladi?,Bitta formulani qo‘llashni talab qiladi,Bir nechta tushunchani bog‘lab yechim qurishni talab qiladi,Jadval to‘ldirishni talab qiladi,Ball olishni talab qiladi,B
+Kommunikativ komponent nimani o‘z ichiga oladi?,Tez yozishni o‘z ichiga oladi,Matematik fikrni aniq va mantiqiy ifodalashni o‘z ichiga oladi,Jadval chizishni o‘z ichiga oladi,Test ishlashni o‘z ichiga oladi,B
+Didaktik reduksiyaning asosiy xavfi nimada?,Mavzu murakkablashadi,"Mazmun haddan ortiq soddalashtirilib, tushuncha buziladi",Jadval ko‘payadi,Ball kamayadi,B
+Algoritmik tafakkur nimani anglatadi?,Faqat tezlikni anglatadi,Amal bajarishning aniq va izchil ketma-ketligini anglatadi,Jadvalni anglatadi,Testni anglatadi,B
+Transfer potensiali nimaga bog‘liq?,Test savollari soniga bog‘liq,Tushunchaning abstraktligi va turli kontekstlarga moslashuvchanligiga bog‘liq,Jadvalni bilishga bog‘liq,Ballga bog‘liq,B
